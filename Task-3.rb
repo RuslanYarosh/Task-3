@@ -26,4 +26,7 @@ def count_friends(matrix,n,s)
     friends.length - 1
 end
 
+
+
 count_friends([[0,0,0,0,0],[0,0,1,0,0],[0,1,0,0,1],[0,0,0,0,1],[0,0,1,1,0]], 5, 2)
+#count_friends([[0,1,0],[1,0,1],[0,1,0]], 3, 1)
